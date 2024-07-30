@@ -6,17 +6,9 @@ There are voter admins who are registered by the overall system administrator. T
 
 **Tech Stack**
 
-PHP
+BACKEND: PHP, MYSQL, SQL
 
-HTML
-
-CSS
-
-JAVASCRIPT
-
-SQL
-
-MYSQL
+FRONTEND: HTML, CSS, JAVASCRIPT
 
 
 Below is an image of the voting page
