@@ -11,11 +11,11 @@ BACKEND: PHP, MYSQL, SQL
 FRONTEND: HTML, CSS, JAVASCRIPT
 
 
-Below is an image of the voting page
+**Below is an image of the voting page**
 
 ![voting page](https://github.com/user-attachments/assets/eb72b77c-1458-4cdd-804f-0d402721c27c)
 
-Below is an image of the results page
+**Below is an image of the results page**
 
 ![results page](https://github.com/user-attachments/assets/d6b43341-ff4f-4aed-8a9d-b0773218d556)
 
