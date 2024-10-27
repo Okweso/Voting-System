@@ -1,4 +1,4 @@
-**University VOTING SYSTEM**
+**UNIVERSITY VOTING SYSTEM**
 
 This is a university/College voting system. The system enables students to vote for their candidates of choice and submit their votes. Immediately after submitting the votes, they are able to see the results as voting continues. However, once a student votes, they are not able to vote again but can see as results continue streaming in. Only registered voters are able to vote. To access the voting page, a voter must first log in and be authenticated.
 
